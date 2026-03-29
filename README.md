@@ -60,9 +60,3 @@ Lifestyle-Routine-Classifier/
 ├── README.md
 ├── Project Report.pdf
 
-## Future Improvements
-
-* Add graphical user interface
-* Use larger dataset
-* Add data visualization
-* Deploy as web application
